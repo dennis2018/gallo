@@ -110,11 +110,3 @@ export default async function Home() {
     </>
   );
 }
-
-const features = [
-  
-  
-  
-  
-  
-];
