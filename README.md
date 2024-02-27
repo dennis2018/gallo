@@ -1,7 +1,7 @@
 You can also clone & create this repo locally with the following command:
 
 ```bash
-npx create-next-app precedent --example "https://github.com/steven-tey/precedent"
+npx create-next-app gallo --example "https://github.com/dennis2018/gallo"
 ```
 
 Then, install the dependencies with your package manager of choice:
